@@ -1,0 +1,18 @@
+form{
+background-color:EBEDEF;
+width:300px;
+border:2px solid black;
+font-family:Century Gothic;
+
+}
+input{
+	width:250px;
+
+}
+button{
+background-color:9BD0F3;
+height:25px;
+width:150px;
+color:white;
+font-family:Century Gothic;
+}

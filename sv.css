@@ -1,0 +1,25 @@
+img{
+
+	height:600px;
+width:700px;
+}
+p{font-family: Century Gothic;}
+button{background-color:99BAC6;}
+.left{
+	
+	float:left;
+}
+.right{
+	float:right;
+
+
+}
+p{
+	font-size:30px;
+	}
+	button{height:50px;
+width:200px;
+font-size:20px;
+color:white;
+
+}
